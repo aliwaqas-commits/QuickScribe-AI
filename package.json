@@ -1,0 +1,9 @@
+{
+  "name": "viral-ai-summarizer",
+  "version": "1.0.0",
+  "private": true,
+  "dependencies": {
+    "@google/generative-ai": "^0.11.3",
+    "lru-cache": "^10.2.2"
+  }
+}
